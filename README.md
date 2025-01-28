@@ -5,3 +5,5 @@
   Para ejecutar el sistema, debes poner:
 
   ```npm install arc react```
+
+Linea para probar uso de git desde consola...
